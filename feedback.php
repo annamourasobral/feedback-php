@@ -12,6 +12,7 @@ $feedback = mysqli_fetch_all($result, MYSQLI_ASSOC);
   <p class="lead mt3"> There is no feedback</p>
 <?php endif; ?>
 
+<!-- Loop trough the database rows to create a box of feedback -->
 <?php foreach ($feedback as $item) : ?>
   <div class="card my-3 w-75">
     <div class="card-body text-center">
