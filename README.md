@@ -1,5 +1,7 @@
 ### Feedback PHP
 
+## [LIVE APP HERE](https://feedbackappphp.000webhostapp.com/index.php)
+
 How to setup the project locally:
 1. Installation
 - [XAMPP](https://www.apachefriends.org/)
@@ -12,3 +14,5 @@ How to setup the project locally:
 3. Input a feedback and see what happens
 
 <img alt="screenshot" src="/img/screenshot.png">
+
+Cheers to [@bradtraversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) for the app tutorial and [Trending Youth](https://www.youtube.com/@TrendingYouth/) for the deployment tutorial.
